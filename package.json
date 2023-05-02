@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "saludar": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo"
+    "saludar": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "ejercicio2": "node ejercicio2.js"
   },
   "keywords": [
     "holamundo"
